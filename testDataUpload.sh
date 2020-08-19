@@ -1,1 +1,1 @@
-bitsadmin.exe /transfer "JobName" C:\Users\886257\OneDrive - American Airlines, Inc\Desktop\AA\SauceLabs\Sampletestdata.txt C:\Users\Administrator\Desktop\Sampletestdata.txt
+bitsadmin.exe /transfer "JobName" https://github.com/ShravankarthikGit/SauceTest/blob/master/Sampletestdata.txt C:\Users\Administrator\Desktop\Sampletestdata.txt

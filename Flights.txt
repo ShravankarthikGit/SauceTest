@@ -1,0 +1,2 @@
+Origin,Departure,DepartureDate,NoofPassengers,ReturnDate
+PHX,CLT,04/10/2020,1,09/05/2020

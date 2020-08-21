@@ -1,1 +1,1 @@
-bitsadmin.exe /transfer "JobName" https://github.com/ShravankarthikGit/SauceTest/blob/master/Flights.txt C:\Users\Administrator\Downloads\Flights.txt
+bitsadmin.exe /transfer "JobName" https://raw.githubusercontent.com/ShravankarthikGit/SauceTest/master/Flights.txt C:\Users\Administrator\Downloads\Flights.txt
